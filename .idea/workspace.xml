@@ -1,7 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1bb13984-7dfd-44a5-bf7e-4503955e7415" name="Default Changelist" comment="" />
+    <list default="true" id="1bb13984-7dfd-44a5-bf7e-4503955e7415" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../OrderLibrary/OrderLibrary.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderLibrary/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderLibrary/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderLibrary/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderLibrary/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderLibrary/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderLibrary/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderLibrary/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderLibrary/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderLibrary/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderLibrary/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderLibrary/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderLibrary/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderLibrary/.gradle/5.2.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderLibrary/.gradle/5.2.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderLibrary/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderLibrary/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderLibrary/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderLibrary/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderLibrary/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderLibrary/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderLibrary/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderLibrary/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderLibrary/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderLibrary/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderLibrary/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderLibrary/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderLibrary/build/classes/java/main/Category.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderLibrary/build/classes/java/main/NotfiyPositionsFinishedRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderLibrary/build/classes/java/main/Offer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderLibrary/build/classes/java/main/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderLibrary/build/classes/java/main/Position.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderLibrary/build/classes/java/main/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderLibrary/build/classes/java/main/Request.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderLibrary/build/classes/java/main/Type.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderLibrary/build/classes/java/main/TypeRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderLibrary/build/classes/java/test/OrderTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderLibrary/build/classes/java/test/OrderTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderLibrary/src/main/java/at/orderlibrary/NotfiyPositionsFinishedRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderLibrary/src/main/java/at/orderlibrary/NotfiyPositionsFinishedRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderLibrary/src/main/java/at/orderlibrary/Offer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderLibrary/src/main/java/at/orderlibrary/Offer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderLibrary/src/main/java/at/orderlibrary/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderLibrary/src/main/java/at/orderlibrary/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderLibrary/src/main/java/at/orderlibrary/Position.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderLibrary/src/main/java/at/orderlibrary/Position.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderLibrary/src/main/java/at/orderlibrary/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderLibrary/src/main/java/at/orderlibrary/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderLibrary/src/main/java/at/orderlibrary/TypeRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderLibrary/src/main/java/at/orderlibrary/TypeRequest.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +107,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -84,7 +118,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1XFtKzJ7GFdj4NbfVGpgP2civ1G" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/sample" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
@@ -92,9 +128,6 @@
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\matth\Desktop\Schule\4.Klasse\SYP\Projekte\Server\build\classes\java\main\sample" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
@@ -102,6 +135,9 @@
       <recent name="C:\Users\matth\Desktop\Schule\4.Klasse\SYP\Projekte\Server\src\main\java\sample" />
       <recent name="C:\Users\matth\Desktop\Schule\4.Klasse\SYP\Projekte\Server\build\classes\java\main\sample" />
       <recent name="C:\Users\matth\Desktop\Schule\4.Klasse\SYP\Projekte\Server\src\main\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\matth\Desktop\Schule\4.Klasse\SYP\Projekte\Server\build\classes\java\main\sample" />
     </key>
   </component>
   <component name="RunDashboard">
