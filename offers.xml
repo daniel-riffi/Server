@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="11.0.4" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="at.orderlibrary.Offer" id="Offer0">
+    <void class="at.orderlibrary.Offer" method="getField">
+     <string>id</string>
+     <void method="set">
+      <object idref="Offer0"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="at.orderlibrary.Offer" method="getField">
+     <string>category</string>
+     <void method="set">
+      <object idref="Offer0"/>
+      <object class="java.lang.Enum" method="valueOf">
+       <class>at.orderlibrary.Category</class>
+       <string>ALCOHOLIC_DRINK</string>
+      </object>
+     </void>
+    </void>
+    <void class="at.orderlibrary.Offer" method="getField">
+     <string>name</string>
+     <void method="set">
+      <object idref="Offer0"/>
+      <string>Bier</string>
+     </void>
+    </void>
+    <void class="at.orderlibrary.Offer" method="getField">
+     <string>price</string>
+     <void method="set">
+      <object idref="Offer0"/>
+      <double>4.5</double>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="at.orderlibrary.Offer" id="Offer1">
+    <void class="at.orderlibrary.Offer" method="getField">
+     <string>id</string>
+     <void method="set">
+      <object idref="Offer1"/>
+      <int>2</int>
+     </void>
+    </void>
+    <void class="at.orderlibrary.Offer" method="getField">
+     <string>category</string>
+     <void method="set">
+      <object idref="Offer1"/>
+      <object class="java.lang.Enum" method="valueOf">
+       <class>at.orderlibrary.Category</class>
+       <string>FOOD</string>
+      </object>
+     </void>
+    </void>
+    <void class="at.orderlibrary.Offer" method="getField">
+     <string>name</string>
+     <void method="set">
+      <object idref="Offer1"/>
+      <string>Schnitzel</string>
+     </void>
+    </void>
+    <void class="at.orderlibrary.Offer" method="getField">
+     <string>price</string>
+     <void method="set">
+      <object idref="Offer1"/>
+      <double>10.0</double>
+     </void>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>

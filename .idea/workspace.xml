@@ -2,18 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1bb13984-7dfd-44a5-bf7e-4503955e7415" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../OrderLibrary/OrderLibrary.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OrderLibrary/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderLibrary/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OrderLibrary/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderLibrary/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OrderLibrary/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderLibrary/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OrderLibrary/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderLibrary/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OrderLibrary/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderLibrary/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OrderLibrary/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderLibrary/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OrderLibrary/.gradle/5.2.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderLibrary/.gradle/5.2.1/javaCompile/jarAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OrderLibrary/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderLibrary/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OrderLibrary/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderLibrary/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OrderLibrary/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderLibrary/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OrderLibrary/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderLibrary/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../OrderLibrary/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderLibrary/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../OrderLibrary/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderLibrary/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../OrderLibrary/build/classes/java/main/Category.class" beforeDir="false" />
@@ -26,12 +14,35 @@
       <change beforePath="$PROJECT_DIR$/../OrderLibrary/build/classes/java/main/Type.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../OrderLibrary/build/classes/java/main/TypeRequest.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../OrderLibrary/build/classes/java/test/OrderTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderLibrary/build/classes/java/test/OrderTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OrderLibrary/src/main/java/at/orderlibrary/NotfiyPositionsFinishedRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderLibrary/src/main/java/at/orderlibrary/NotfiyPositionsFinishedRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OrderLibrary/src/main/java/at/orderlibrary/Offer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderLibrary/src/main/java/at/orderlibrary/Offer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OrderLibrary/src/main/java/at/orderlibrary/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderLibrary/src/main/java/at/orderlibrary/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OrderLibrary/src/main/java/at/orderlibrary/Position.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderLibrary/src/main/java/at/orderlibrary/Position.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OrderLibrary/src/main/java/at/orderlibrary/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderLibrary/src/main/java/at/orderlibrary/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OrderLibrary/src/main/java/at/orderlibrary/TypeRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderLibrary/src/main/java/at/orderlibrary/TypeRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderLibrary/build/reports/tests/test/classes/OrderTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderLibrary/build/reports/tests/test/classes/OrderTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderLibrary/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderLibrary/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderLibrary/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderLibrary/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderLibrary/build/test-results/test/TEST-OrderTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderLibrary/build/test-results/test/TEST-OrderTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderLibrary/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderLibrary/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/sample/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/sample/Controller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/sample/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/sample/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/sample/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/sample/sample.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/distributions/Server-1.0-SNAPSHOT.tar" beforeDir="false" afterPath="$PROJECT_DIR$/build/distributions/Server-1.0-SNAPSHOT.tar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/distributions/Server-1.0-SNAPSHOT.zip" beforeDir="false" afterPath="$PROJECT_DIR$/build/distributions/Server-1.0-SNAPSHOT.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/Server-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/Server-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/scripts/Server" beforeDir="false" afterPath="$PROJECT_DIR$/build/scripts/Server" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/scripts/Server.bat" beforeDir="false" afterPath="$PROJECT_DIR$/build/scripts/Server.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sample/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sample/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sample/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sample/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sample/sample.fxml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,29 +85,15 @@
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
                 <item name="build" type="c8890929:TasksNode$1" />
               </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="Server" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="build setup" type="c8890929:TasksNode$1" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="Server" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="other" type="c8890929:TasksNode$1" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="Server" type="f1a62948:ProjectNode" />
-                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
-              </path>
             </expand>
             <select />
           </tree_state>
         </projects_view>
       </state>
     </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Server" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -121,23 +118,24 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/sample" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/build/classes/java/main/sample" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\matth\Desktop\Schule\4.Klasse\SYP\Projekte\Server\build\classes\java\main\sample" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\riffe\schule\4. klasse\syp\Kirtagssystem\Server\build\classes\java\main\sample" />
       <recent name="C:\Users\matth\Desktop\Schule\4.Klasse\SYP\Projekte\Server\src\main\java\sample" />
       <recent name="C:\Users\matth\Desktop\Schule\4.Klasse\SYP\Projekte\Server\build\classes\java\main\sample" />
       <recent name="C:\Users\matth\Desktop\Schule\4.Klasse\SYP\Projekte\Server\src\main\java" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\matth\Desktop\Schule\4.Klasse\SYP\Projekte\Server\build\classes\java\main\sample" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -152,7 +150,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Gradle.Server [run]">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sample.Main" />
       <module name="Server.main" />
@@ -264,5 +262,16 @@
       <updated>1580653610831</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/sample/Backend.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
