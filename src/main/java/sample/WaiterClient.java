@@ -2,8 +2,10 @@ package sample;
 
 import at.orderlibrary.*;
 import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
 
 import java.io.*;
+import java.lang.reflect.Modifier;
 import java.net.Socket;
 import java.util.List;
 import java.util.function.Consumer;
@@ -35,7 +37,8 @@ public class WaiterClient {
                         close();
                         break;
                     }
-                    Order order=new Gson().fromJson(read,Order.class);
+                    Order order=new GsonBuilder().excludeFieldsWithModifiers(Modifier.PRIVATE).create()
+                            .fromJson(read,Order.class);
                     callback.accept(order);
 
                 } catch (Exception e) {
@@ -56,7 +59,8 @@ public class WaiterClient {
     }
 
     public void sendOffers(List<Offer> offers){
-        String json=new Gson().toJson(offers);
+        String json=new GsonBuilder().excludeFieldsWithModifiers(Modifier.PRIVATE).create()
+                .toJson(offers);
         writer.print(json+"\r\n");
         writer.flush();
     }

@@ -3,8 +3,10 @@ package sample;
 import at.orderlibrary.TypeRequest;
 import at.orderlibrary.*;
 import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
 
 import java.io.*;
+import java.lang.reflect.Modifier;
 import java.net.ServerSocket;
 import java.net.Socket;
 import java.util.ArrayList;
@@ -28,9 +30,9 @@ public class ServerManager {
         waiterClients = new ArrayList<>();
     }
 
-    public void startServer(Consumer<Order> callback) {
+    public void startServer(Consumer<Order> callback,Consumer barCookClientConnected) {
         UnitTestVariables.ResetVariables();
-        Gson gsonLoad = new Gson();
+        Gson gsonLoad = new GsonBuilder().excludeFieldsWithModifiers(Modifier.PRIVATE).create();
         String orderString = gsonLoad.toJson(UnitTestVariables.order1);
         Order sd = gsonLoad.fromJson(orderString, Order.class);
 
@@ -53,7 +55,7 @@ public class ServerManager {
                     PrintWriter pr = new PrintWriter(new OutputStreamWriter(client.getOutputStream()));
 
                     String req = br.readLine();
-                    Gson gson = new Gson();
+                    Gson gson = new GsonBuilder().excludeFieldsWithModifiers(Modifier.PRIVATE).create();
                     TypeRequest request = gson.fromJson(req, TypeRequest.class);
 
                     if (request.type == Type.WAITER) {
@@ -64,7 +66,7 @@ public class ServerManager {
                         lock.unlock();
 
                         waiterClient.startReadingThread(callback);
-                        waiterClient.sendOffers(Main.readAllOffers());
+                        waiterClient.sendOffers(Backend.readOffersFromFile());
 
                     } else {
                         BarCookClient barCookClient = new BarCookClient(client, request.type, this);
@@ -73,6 +75,7 @@ public class ServerManager {
                         barCookClients.add(barCookClient);
                         lock.unlock();
                         barCookClient.startRequestReadingThread();
+                        barCookClientConnected.accept(null);
                     }
                 }
             } catch (IOException ex) {
