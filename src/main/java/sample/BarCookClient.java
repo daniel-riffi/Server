@@ -2,8 +2,10 @@ package sample;
 
 import at.orderlibrary.*;
 import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
 
 import java.io.*;
+import java.lang.reflect.Modifier;
 import java.net.Socket;
 
 public class BarCookClient {
@@ -29,7 +31,9 @@ public class BarCookClient {
     }
 
     public void sendOrderToClient(Order order){
-        String json=new Gson().toJson(order);
+        String json=new GsonBuilder().excludeFieldsWithModifiers(Modifier.PRIVATE).create()
+                .toJson(order);
+        openPositions+=order.positions.size();
         writer.print(json+"\r\n");
         writer.flush();
     }
@@ -38,7 +42,8 @@ public class BarCookClient {
             while(true) {
                 try {
                     String read=reader.readLine();
-                    NotfiyPositionsFinishedRequest request=new Gson().fromJson(read,NotfiyPositionsFinishedRequest.class);
+                    NotfiyPositionsFinishedRequest request=new GsonBuilder().excludeFieldsWithModifiers(Modifier.PRIVATE).create()
+                            .fromJson(read,NotfiyPositionsFinishedRequest.class);
                     openPositions-=request.count;
                 } catch (Exception e) {
                    close();

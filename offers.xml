@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<java version="11.0.4" class="java.beans.XMLDecoder">
+<java version="11.0.3" class="java.beans.XMLDecoder">
  <object class="java.util.ArrayList">
   <void method="add">
    <object class="at.orderlibrary.Offer" id="Offer0">
@@ -67,6 +67,41 @@
      <void method="set">
       <object idref="Offer1"/>
       <double>10.0</double>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="at.orderlibrary.Offer" id="Offer2">
+    <void class="at.orderlibrary.Offer" method="getField">
+     <string>id</string>
+     <void method="set">
+      <object idref="Offer2"/>
+      <int>3</int>
+     </void>
+    </void>
+    <void class="at.orderlibrary.Offer" method="getField">
+     <string>category</string>
+     <void method="set">
+      <object idref="Offer2"/>
+      <object class="java.lang.Enum" method="valueOf">
+       <class>at.orderlibrary.Category</class>
+       <string>DESERT</string>
+      </object>
+     </void>
+    </void>
+    <void class="at.orderlibrary.Offer" method="getField">
+     <string>name</string>
+     <void method="set">
+      <object idref="Offer2"/>
+      <string>Test</string>
+     </void>
+    </void>
+    <void class="at.orderlibrary.Offer" method="getField">
+     <string>price</string>
+     <void method="set">
+      <object idref="Offer2"/>
+      <double>6.5</double>
      </void>
     </void>
    </object>

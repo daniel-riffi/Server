@@ -28,15 +28,4 @@ public class Main extends Application {
     }
 
 
-    public static ArrayList<Offer> readAllOffers() {
-        ArrayList<Offer> offers = new ArrayList<>();
-        offers.add(new Offer(1, "Schnitzel deluxe premium", 8.6, Category.FOOD));
-        offers.add(new Offer(2, "Hendl", 5.6, Category.FOOD));
-        offers.add(new Offer(3, "Bier", 4.5, Category.ALCOHOLIC_DRINK));
-        offers.add(new Offer(4, "Apfelsaft", 2.5, Category.NON_ALCOHOLIC_DRINK));
-        offers.add(new Offer(2, "Würstel", 5.6, Category.FOOD));
-
-        return offers;
-    }
-
 }
