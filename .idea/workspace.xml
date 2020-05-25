@@ -3,26 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="1bb13984-7dfd-44a5-bf7e-4503955e7415" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../OrderLibrary/OrderLibrary.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderLibrary/OrderLibrary.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OrderLibrary/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderLibrary/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OrderLibrary/build/.transforms/4452072e241def7c653077d13d7ae925.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OrderLibrary/build/.transforms/4452072e241def7c653077d13d7ae925/OrderLibrary-1.0-SNAPSHOT/classes.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OrderLibrary/build/.transforms/b706497bcfeaa766d2f0e4507f83ce7d.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OrderLibrary/build/.transforms/bc229901987679105d0f84eeb9e5f5ff.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderLibrary/build/classes/java/main/at/orderlibrary/Offer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderLibrary/build/classes/java/main/at/orderlibrary/Offer.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../OrderLibrary/build/classes/java/main/at/orderlibrary/Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderLibrary/build/classes/java/main/at/orderlibrary/Order.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../OrderLibrary/build/classes/java/main/at/orderlibrary/Position.class" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderLibrary/build/classes/java/main/at/orderlibrary/Position.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OrderLibrary/build/classes/java/test/OrderTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderLibrary/build/classes/java/main/at/orderlibrary/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderLibrary/build/classes/java/main/at/orderlibrary/Product.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../OrderLibrary/build/libs/OrderLibrary-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderLibrary/build/libs/OrderLibrary-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OrderLibrary/build/reports/tests/test/classes/OrderTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OrderLibrary/build/reports/tests/test/css/base-style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OrderLibrary/build/reports/tests/test/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OrderLibrary/build/reports/tests/test/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OrderLibrary/build/reports/tests/test/js/report.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OrderLibrary/build/reports/tests/test/packages/default-package.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OrderLibrary/build/test-results/test/TEST-OrderTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OrderLibrary/build/test-results/test/binary/output.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OrderLibrary/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OrderLibrary/build/test-results/test/binary/results.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OrderLibrary/src/main/java/at/orderlibrary/Position.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderLibrary/src/main/java/at/orderlibrary/Position.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderLibrary/build/reports/tests/test/classes/OrderTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderLibrary/build/reports/tests/test/classes/OrderTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderLibrary/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderLibrary/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderLibrary/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderLibrary/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderLibrary/build/test-results/test/TEST-OrderTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderLibrary/build/test-results/test/TEST-OrderTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderLibrary/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderLibrary/build/test-results/test/binary/results.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileContent/fileContent.lock" afterDir="false" />
@@ -39,13 +29,9 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/sample/Backend.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/sample/Backend.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/sample/BarCookClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/sample/BarCookClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/sample/ServerManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/sample/ServerManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/sample/WaiterClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/sample/WaiterClient.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/offers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/offers.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/sample/Backend.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sample/Backend.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/sample/BarCookClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sample/BarCookClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sample/ServerManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sample/ServerManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sample/WaiterClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sample/WaiterClient.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -79,19 +65,20 @@
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="Server" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="application" type="c8890929:TasksNode$1" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="Server" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="build" type="c8890929:TasksNode$1" />
+                <item name="OrderLibrary" type="2d1252cf:ModuleNode" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="Server" type="f1a62948:ProjectNode" />
                 <item name="OrderLibrary" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Server" type="f1a62948:ProjectNode" />
+                <item name="OrderLibrary" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
               </path>
             </expand>
             <select />
@@ -126,7 +113,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/build/classes/java/main/sample" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../DBI/Microservices/SecureMicroservice" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -164,13 +151,6 @@
     </option>
   </component>
   <component name="RunManager" selected="Gradle.Server [run]">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Server.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sample.Main" />
       <module name="Server.main" />
@@ -184,6 +164,44 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Server [:OrderLibrary:build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":OrderLibrary:build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Server [:OrderLibrary:clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":OrderLibrary:clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="Server [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -196,25 +214,6 @@
         <option name="taskNames">
           <list>
             <option value="build" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="Server [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="clean" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -244,10 +243,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Gradle.Server [run]" />
-        <item itemvalue="Gradle.Server [build]" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Gradle.Server [clean]" />
+        <item itemvalue="Gradle.Server [:OrderLibrary:build]" />
+        <item itemvalue="Gradle.Server [:OrderLibrary:clean]" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Gradle.Server [build]" />
       </list>
     </recent_temporary>
   </component>

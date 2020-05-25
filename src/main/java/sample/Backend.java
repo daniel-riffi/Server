@@ -54,8 +54,9 @@ public class Backend {
         );
         order.reinitPositionsWithOrder();
         Order orderForCook=order.copyOrderWithFunction((position)->categories.contains(position.product.offer.category));
-        order.orderNumber=getNewOrderId();
-        orderForCook.orderNumber=getNewOrderId();
+        int newId=getNewOrderId();
+        order.orderNumber=newId;
+        orderForCook.orderNumber=newId;
 
         try {
 

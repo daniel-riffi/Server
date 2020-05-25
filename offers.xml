@@ -84,7 +84,7 @@
      <string>category</string>
      <void method="set">
       <object idref="Offer2"/>
-      <object class="java.lang.Enum" method="valueOf">
+      <object class="java.lang.Enum" id="Category0" method="valueOf">
        <class>at.orderlibrary.Category</class>
        <string>DESERT</string>
       </object>
@@ -102,6 +102,73 @@
      <void method="set">
       <object idref="Offer2"/>
       <double>6.5</double>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="at.orderlibrary.Offer" id="Offer3">
+    <void class="at.orderlibrary.Offer" method="getField">
+     <string>id</string>
+     <void method="set">
+      <object idref="Offer3"/>
+      <int>4</int>
+     </void>
+    </void>
+    <void class="at.orderlibrary.Offer" method="getField">
+     <string>category</string>
+     <void method="set">
+      <object idref="Offer3"/>
+      <object class="java.lang.Enum" method="valueOf">
+       <class>at.orderlibrary.Category</class>
+       <string>NON_ALCOHOLIC_DRINK</string>
+      </object>
+     </void>
+    </void>
+    <void class="at.orderlibrary.Offer" method="getField">
+     <string>name</string>
+     <void method="set">
+      <object idref="Offer3"/>
+      <string>Cola</string>
+     </void>
+    </void>
+    <void class="at.orderlibrary.Offer" method="getField">
+     <string>price</string>
+     <void method="set">
+      <object idref="Offer3"/>
+      <double>100.0</double>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="at.orderlibrary.Offer" id="Offer4">
+    <void class="at.orderlibrary.Offer" method="getField">
+     <string>id</string>
+     <void method="set">
+      <object idref="Offer4"/>
+      <int>5</int>
+     </void>
+    </void>
+    <void class="at.orderlibrary.Offer" method="getField">
+     <string>category</string>
+     <void method="set">
+      <object idref="Offer4"/>
+      <object idref="Category0"/>
+     </void>
+    </void>
+    <void class="at.orderlibrary.Offer" method="getField">
+     <string>name</string>
+     <void method="set">
+      <object idref="Offer4"/>
+      <string>Corona-Virus</string>
+     </void>
+    </void>
+    <void class="at.orderlibrary.Offer" method="getField">
+     <string>price</string>
+     <void method="set">
+      <object idref="Offer4"/>
+      <double>10.0</double>
      </void>
     </void>
    </object>

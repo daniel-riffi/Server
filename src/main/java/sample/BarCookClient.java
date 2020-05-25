@@ -7,6 +7,7 @@ import com.google.gson.GsonBuilder;
 import java.io.*;
 import java.lang.reflect.Modifier;
 import java.net.Socket;
+import java.util.stream.Collectors;
 
 public class BarCookClient {
     public Type type;
@@ -33,7 +34,7 @@ public class BarCookClient {
     public void sendOrderToClient(Order order){
         String json=new GsonBuilder().excludeFieldsWithModifiers(Modifier.PRIVATE).create()
                 .toJson(order);
-        openPositions+=order.positions.size();
+        openPositions+=order.positions.stream().mapToInt(x->x.amount).sum();
         writer.print(json+"\r\n");
         writer.flush();
     }
